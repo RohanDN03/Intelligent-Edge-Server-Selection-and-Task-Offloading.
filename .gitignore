@@ -2,7 +2,3 @@
 __pycache__/
 .pytest_cache/
 *.py[cod]
-checkpoints/*.pt
-results/*.csv
-results/*.png
-results/*.json
